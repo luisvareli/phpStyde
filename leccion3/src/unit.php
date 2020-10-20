@@ -19,14 +19,30 @@ class Unit
         $this->armor = new MissingArmor();
     }
 
+    public function createSoldier()
+    {
+        $soldier = new Unit('Raw', new Weapons\BasicSword);
+        $soldier ->setArmor(new Armors\BronzeArmor());
+
+        return $soldier;
+    }
+
     public function setWeapon(Weapon $weapon)
     {
         $this->weapon = $weapon;
+
+        return $this;
     }
 
     public function setArmor(Armor $armor = null)
     {
         $this->armor = $armor;
+        return $this;
+    }
+
+    public function setShield()
+    {
+        return $this;
     }
 
     public function getName()
