@@ -2,6 +2,8 @@
 
 namespace Styde;
 
+use Styde\Armors\MissingArmor;
+
 class Unit
 {
     protected $hp = 40;
@@ -14,7 +16,7 @@ class Unit
     {
         $this->name = $name;
         $this->weapon = $weapon;
-
+        $this->armor = new MissingArmor();
     }
 
     public function setWeapon(Weapon $weapon)
@@ -53,7 +55,7 @@ class Unit
 
     public function takeDamage(Attack $attack)
     {
-        $this->hp = $this->hp - $this->absorbDamage($attack);
+        $this->hp = $this->hp - $this->armor->absorbDamage($attack);
 
         show("{$this->name} ahora tiene {$this->hp} puntos de vida");
 
@@ -67,14 +69,5 @@ class Unit
         show("{$this->name} muere");
         exit();
     }
-
-    protected function absorbDamage(Attack $attack)
-    {
-        if ($this->armor) {
-            return $this->armor->absorbDamage($attack);
-        }
-        return $attack->getDamage();
-    }
-
 
 }

@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dec0d8ad-03e8-45c3-ad25-593ed1a9a33b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Attack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/BasicBow.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/BasicSword.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/CrossBow.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weapons/FireBow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/armors/MissingArmor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/archer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bronzearmor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursedarmor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/silverarmor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/soldier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/armor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/armors/bronzearmor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armors/bronzearmor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/armors/cursedarmor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armors/cursedarmor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/armors/silverarmor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armors/silverarmor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/unit.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/armor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weapons/BasicSword.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/weapons/BasicSword.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603140081654</updated>
       <workItem from="1603140082681" duration="15761000" />
-      <workItem from="1603203262269" duration="14353000" />
+      <workItem from="1603203262269" duration="16580000" />
     </task>
     <servers />
   </component>
