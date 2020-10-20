@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dec0d8ad-03e8-45c3-ad25-593ed1a9a33b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FileLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HtmlLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Log.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logger.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/armor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/unit.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603140081654</updated>
       <workItem from="1603140082681" duration="15761000" />
-      <workItem from="1603203262269" duration="22696000" />
+      <workItem from="1603203262269" duration="25983000" />
     </task>
     <servers />
   </component>
@@ -66,9 +72,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1256" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603211490507" />
-    <state x="1267" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603228740063">
+    <state x="1267" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1603230681805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1267" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603228740063" />
+    <state x="1267" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603230681805" />
   </component>
 </project>

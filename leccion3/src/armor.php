@@ -6,6 +6,8 @@ abstract class Armor
 {
     public function absorbDamage(Attack $attack)
     {
+        Log::info("Absorbing damage...");
+
         if ($attack->isMagical()) {
             return $this->absorbMagicDamage($attack);
         }

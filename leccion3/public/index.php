@@ -10,6 +10,9 @@ Translator::set([
     'CrossBowAttack'=> ':unit dispara una flecha a :opponent',
     'FireBowAttack'=>  ':unit dispara una flecha de fuego :opponent',
 ]);
+
+Log::setLogger(new HtmlLogger());
+
 $raw = Unit::createSoldier()
             ->setWeapon(new Weapons\BasicSword())
             ->setArmor(new Armors\SilverArmor())
