@@ -1,0 +1,21 @@
+{
+  "name": "styde/oop",
+  "description": "Proyecto demo para el curso de programacion orientada a objeto",
+  "type": "proyect",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luis Vargas",
+      "email": "luis@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ],
+    "psr-4": {
+      "Styde\\": "src/"
+    }
+  }
+}

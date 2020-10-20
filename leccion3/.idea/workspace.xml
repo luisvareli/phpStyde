@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dec0d8ad-03e8-45c3-ad25-593ed1a9a33b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polymorphism.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/archer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronzearmor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursedarmor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/silverarmor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soldier.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/armor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Attack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weapon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weapons/BasicBow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weapons/BasicSword.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weapons/CrossBow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weapons/FireBow.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/archer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bronzearmor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursedarmor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/silverarmor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soldier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/armor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/armor.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +44,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lewiis\Desktop\stydePhp\leccion3\vendor" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lewiis\Desktop\stydePhp\leccion3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewiis\Desktop\stydePhp\leccion3\src" />
+      <recent name="C:\Users\Lewiis\Desktop\stydePhp\leccion3\public" />
+      <recent name="C:\Users\Lewiis\Desktop\stydePhp\leccion3\vendor" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,11 +61,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603140081654</updated>
-      <workItem from="1603140082681" duration="15461000" />
+      <workItem from="1603140082681" duration="15761000" />
+      <workItem from="1603203262269" duration="14353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1281" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603210174429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1281" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603210174429" />
+    <state x="1256" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603211490507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1256" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603211490507" />
   </component>
 </project>
