@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="063d5c06-60ee-4b46-969e-155fb6e3e031" name="Default Changelist" comment="" />
+    <list default="true" id="063d5c06-60ee-4b46-969e-155fb6e3e031" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../magic3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../magic3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magic4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +52,8 @@
       <workItem from="1603244667965" duration="610000" />
       <workItem from="1603288946932" duration="3586000" />
       <workItem from="1603296581852" duration="634000" />
-      <workItem from="1603297442569" duration="4054000" />
+      <workItem from="1603297442569" duration="3757000" />
+      <workItem from="1603303007214" duration="2087000" />
     </task>
     <servers />
   </component>
@@ -62,10 +65,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1384" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603289120608" />
-    <state x="1393" y="278" key="FileChooserDialogImpl" timestamp="1603303004384">
+    <state x="1393" y="278" key="FileChooserDialogImpl" timestamp="1603293541290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1393" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603303004384" />
+    <state x="1393" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603293541290" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603297869399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
