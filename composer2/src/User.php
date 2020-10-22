@@ -15,5 +15,3 @@ class User extends Model
         return $date->age;
     }
 }
-
-
