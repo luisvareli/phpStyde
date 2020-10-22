@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063d5c06-60ee-4b46-969e-155fb6e3e031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/StrTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson28" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -93,7 +93,7 @@
       <workItem from="1603315792490" duration="3021000" />
       <workItem from="1603318838247" duration="10000" />
       <workItem from="1603390436885" duration="3932000" />
-      <workItem from="1603397558938" duration="2300000" />
+      <workItem from="1603397558938" duration="2849000" />
     </task>
     <servers />
   </component>
@@ -105,10 +105,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1384" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603313957242" />
-    <state x="1393" y="278" key="FileChooserDialogImpl" timestamp="1603390434238">
+    <state x="1393" y="278" key="FileChooserDialogImpl" timestamp="1603400406943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1393" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603390434238" />
+    <state x="1393" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603400406943" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603398110513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
