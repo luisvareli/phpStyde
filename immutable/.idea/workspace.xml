@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063d5c06-60ee-4b46-969e-155fb6e3e031" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/time.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Food.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iteracion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../iteracion/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../immutable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +64,7 @@
       <workItem from="1603318849038" duration="4961000" />
       <workItem from="1603337286324" duration="3203000" />
       <workItem from="1603375595281" duration="1692000" />
-      <workItem from="1603377324748" duration="315000" />
+      <workItem from="1603377640998" duration="3802000" />
     </task>
     <servers />
   </component>
@@ -74,10 +76,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1384" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603313957242" />
-    <state x="1393" y="278" key="FileChooserDialogImpl" timestamp="1603377637584">
+    <state x="1393" y="278" key="FileChooserDialogImpl" timestamp="1603293541290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1393" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603377637584" />
+    <state x="1393" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603293541290" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603297869399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

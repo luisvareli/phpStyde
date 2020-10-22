@@ -1,0 +1,29 @@
+<?php
+
+require '../vendor/autoload.php';
+
+use Styde\User;
+use Styde\Food;
+use Styde\LunchBox;
+
+$gordon = new User(['name'=>'Gordon']);
+
+
+//Daughters
+$joanie = new User(['name'=>'Joanie']);
+
+
+$lunchBox = new LunchBox (['Sandwich','Papas', 'Jugo de Naranja', 'Manzana']);
+$lunchBox = new LunchBox ([
+    new Food(['name'=>'Sandwich','beverage'=>false]),
+    new Food(['name'=>'Papas']),
+    new Food(['name'=>'Jugo de Naranja','beverage'=>true]),
+    new Food(['name'=>'Manzana']),
+    new Food(['name'=>'Agua','beverage'=>true]),
+]);
+
+//House
+$joanie->setLunch($lunchBox);
+
+//School
+$joanie->eatMeal();
