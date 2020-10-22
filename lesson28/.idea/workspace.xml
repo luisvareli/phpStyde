@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063d5c06-60ee-4b46-969e-155fb6e3e031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/ArrayAccessTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,7 @@
       <workItem from="1603318838247" duration="10000" />
       <workItem from="1603390436885" duration="3932000" />
       <workItem from="1603397558938" duration="2725000" />
-      <workItem from="1603400410611" duration="1838000" />
+      <workItem from="1603400410611" duration="2759000" />
     </task>
     <servers />
   </component>
